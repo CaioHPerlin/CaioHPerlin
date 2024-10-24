@@ -6,7 +6,7 @@
 
 ###
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction: row;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiohperlin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=true&order=2" height="200" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=caiohperlin&radius=16&theme=material-palenight&area=true&order=5&custom_title=Contribution%20Graph&hide_border=true&hide_title=true" height="200" alt="activity-graph graph"  />
 </div>
@@ -39,8 +39,3 @@
   <img src="https://skillicons.dev/icons?i=androidstudio" height="52" alt="androidstudio logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/caiohperlin/caiohperlin/output/snake.svg" alt="Snake animation" />
-
-###
